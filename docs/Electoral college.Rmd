@@ -1,0 +1,16 @@
+---
+title: "Electoral college"
+author: "oskar"
+date: "7/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Synopsis
+
+The electoral college is an important aspect of the system that determines the result of presidential elections in the USA. I often forget the specifics of it and where it came from. In this document I will track key facts about it so that I can access them later. 
+
+## Key resources 
